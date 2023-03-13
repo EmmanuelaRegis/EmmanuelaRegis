@@ -1,4 +1,20 @@
-### Hi there 👋
+#                                                           Bonjour, je m'appelle Emma 👋
+`                                          Love To Explore And Expand My Knowledge Type Of Gal 💋                                       `
+
+•  🌱 I’m currently Learning **Full Stack Web Development which is HTML, CSS, & JavaScript.**
+
+•  👯 I’m looking to Collaborate on **Art & Photograpghy.**
+
+•  💬 Ask Me about **Traveling in Florida, I got ALLL the sauce😉**
+
+• ⚡ Fun Fact **I love food LOL!**
+
+**Collab with Me:**
+
+https://www.youtube.com/@nunuXvibez/
+
+
+
 
 <!--
 **EmmanuelaRegis/EmmanuelaRegis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
