@@ -1,5 +1,5 @@
 #                                                           Bonjour, je m'appelle Emma 👋
-`                                          Love To Explore And Expand My Knowledge Type Of Gal 💋                                       `
+`                                        Love To Explore And Expand My Knowledge Type Of Gal 💋                                       `
 
 •  🌱 I’m currently Learning **Full Stack Web Development which is HTML, CSS, & JavaScript.**
 
